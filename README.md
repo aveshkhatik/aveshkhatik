@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="aveshkhatik" /></p>
 
-- 🌱 I’m currently learning **React.Js With Tailwind**
+- 🌱 I’m currently learning **React.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aveshkhatik/aveshkhatik](https://github.com/aveshkhatik/aveshkhatik)
 
